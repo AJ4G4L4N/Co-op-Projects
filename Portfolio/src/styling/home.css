@@ -1,0 +1,77 @@
+body{
+    margin-left: 350px;
+    margin-right: 350px;
+};
+
+img{
+    max-width: 100%;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#Img1{
+    height: 144px;
+    border-radius: 8px;
+    margin: 7px;
+    margin-left: 0px;
+}
+
+#Img2{
+    height: 344px;
+    border-radius: 8px;
+    margin: 7px;
+}
+
+#Img3{
+    height: 144px;
+    border-radius: 8px;
+    margin: 7px;
+}
+
+#Img4{
+    height: 385px;
+    border-radius: 8px;
+    margin: 10px;
+    margin-left: 0px;
+}
+
+#Img5{
+    height: 185px;
+    border-radius: 8px;
+    margin: 10px;
+    width: 225px;
+}
+
+#Img6{
+    height: 385px;
+    border-radius: 8px;
+    margin: 10px;
+    width: 260px;
+}
+
+.buttons{
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    width: 350px;
+    height: 80px;
+    margin: 10px;
+}
+
+#github{
+    height: 50px;
+    width: 50px;
+}
+
+#linkedin{
+    height: 50px;
+    width: 50px;
+}
