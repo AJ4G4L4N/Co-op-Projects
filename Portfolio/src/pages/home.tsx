@@ -35,8 +35,8 @@ export default function Home() {
       </p>
 
       <div className="buttons">  
-      <a href="https://github.com/AJ4G4L4N/Co-op-Projects"><button type="button"><img id="github" src={github}></img>Github</button></a>
-      <a href="www.linkedin.com/in/anuj-jaglan"><button type="button"><img id="linkedin" src={linkedin}></img>LinkedIn</button></a>
+      <a href="https://github.com/AJ4G4L4N/Co-op-Projects" target="_blank"><button type="button"><img id="github" src={github}></img>Github</button></a>
+      <a href="www.linkedin.com/in/anuj-jaglan" target="_blank"><button type="button"><img id="linkedin" src={linkedin}></img>LinkedIn</button></a>
       </div>
 
       <p>
